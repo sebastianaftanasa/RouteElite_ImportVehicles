@@ -6369,9 +6369,9 @@
     "restore": {
       "projectUniqueName": "ImportVehiclesData",
       "projectName": "ImportVehiclesData",
-      "projectPath": "D:\\RPA Development\\Flobotics\\RouteElite\\DevelopmentCode\\ImportVehicles\\ImportVehiclesData\\.local",
+      "projectPath": "D:\\RPA Development\\Flobotics\\RouteElite\\DevelopmentCode\\ImportVehicles\\.local",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "D:\\RPA Development\\Flobotics\\RouteElite\\DevelopmentCode\\ImportVehicles\\ImportVehiclesData\\.local"
+      "outputPath": "D:\\RPA Development\\Flobotics\\RouteElite\\DevelopmentCode\\ImportVehicles\\.local"
     },
     "frameworks": {
       "net461": {
